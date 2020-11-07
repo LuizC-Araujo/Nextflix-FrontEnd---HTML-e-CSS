@@ -3,4 +3,7 @@
         display: flex;
         flex-direction: column;
     }
+    .filme-principal {
+        background: linear-gradient(rgba(0, 0, 0, .40), rgba(0, 0, 0, .40)100%), url('/img/house2.jpg');
+    }
 }
